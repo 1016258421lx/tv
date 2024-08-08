@@ -5,22 +5,12 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/1266629258108481540
 https://v.cdnlz18.com/20240727/14847_e8b2ecc2/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="实时奥运金牌榜" tvg-logo="https://live.fanmingming.com/tv/实时奥运金牌榜.png" group-title="奥运频道",实时奥运金牌榜
 https://pull-flv-f6.douyincdn.com/media/stream-692028292559012524.flv?abr_pts=-800&_session_id=037-202407291921458CA4EAA478C16011032F.1722252116805.55119
-#EXTINF:-1 tvg-name="奥运CCTV5" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV5.png" group-title="奥运频道",奥运CCTV5
-http://124.193.37.59:82/live/CCTV5hd-8M/live.m3u8
-#EXTINF:-1 tvg-name="奥运CCTV5" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV5.png" group-title="奥运频道",奥运CCTV5
-http://112.13.84.36:80/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-name="奥运CCTV5" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV5.png" group-title="奥运频道",奥运CCTV5
-http://223.109.210.49:80/mgsp-tx.live.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667565&timezone=UTC&mtv_session=9723de29a88e2be1095d8c6d5a75dee9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12723843ed39c650d67a569eb896dd81
-#EXTINF:-1 tvg-name="奥运CCTV5" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV5.png" group-title="奥运频道",奥运CCTV5
-http://tptv1.mobaibox.com/alcdnbacksourceflag_223.110.243.201:80/PLTV/4/224/3221228502/1.m3u8?accountinfo=9FI0YN4im9p9mqwUg8r4dw9Tq1%2FnkxhN31zsoFvGmxK48ClNCZpKa2J%2BvetU%2F9Cq3W3fUGrFDTXLZAK5xxW0l3Zw7QRRv6j9Nm7GCr2bPoypyIyq7Yd%2B%2FoThl3shrqDLRiUhXTPxHRgMyznyXBGqvQ%3D%3D%3A20240724145949%2C66a0a665056c0%2C112.25.7.219%2C20240724145949%2CG_CCTV-5-AVS-4K264%2C31901BE5D5B4C7C9B2132CA5C38E3623%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-name="奥运CCTV05" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV05.png" group-title="奥运频道",奥运CCTV-05
+
+#EXTINF:-1 tvg-name="奥运CCTV5" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV5.png" group-title="奥运频道",奥运CCTV-5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="奥运CCTV+5+" tvg-logo="https://live.fanmingming.com/tv/奥运CCTV+5+.png" group-title="奥运频道",奥运CCTV+5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="奥运频道",CCTV-5+体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="奥运频道",CCTV-5+体育赛事
-http://tvbox6.com/tv/zb/cqcucc.php?id=68
+
 #EXTINF:-1 tvg-name="纬来篮球" tvg-logo="https://live.fanmingming.com/tv/纬来篮球.png" group-title="体育频道",纬来篮球
 rtmp://f13h.mine.nu/sat/tv721
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://live.fanmingming.com/tv/精品体育.png" group-title="体育频道",精品体育
