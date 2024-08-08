@@ -1,14 +1,4 @@
-#EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="欧歌免费分享" tvg-logo="https://live.fanmingming.com/tv/欧歌免费分享.png" group-title="欧歌分享",欧歌免费分享
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
-#EXTINF:-1 tvg-name="关注公众号欧歌APP" tvg-logo="https://live.fanmingming.com/tv/关注公众号欧歌APP.png" group-title="欧歌分享",关注公众号欧歌APP
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
-#EXTINF:-1 tvg-name="QQ频道欧歌API" tvg-logo="https://live.fanmingming.com/tv/QQ频道欧歌API.png" group-title="欧歌分享",QQ频道欧歌API
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
-#EXTINF:-1 tvg-name="接口tv.nxog.top" tvg-logo="https://live.fanmingming.com/tv/接口tv.nxog.top.png" group-title="欧歌分享",接口tv.nxog.top
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
-#EXTINF:-1 tvg-name="开通IPV6观看" tvg-logo="https://live.fanmingming.com/tv/开通IPV6观看.png" group-title="欧歌分享",开通IPV6观看
-https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+#EXTM3U 
 #EXTINF:-1 tvg-name="巴黎奥运开幕式" tvg-logo="https://live.fanmingming.com/tv/巴黎奥运开幕式.png" group-title="奥运频道",巴黎奥运开幕式
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge12/126662925810848154051013005/aa9f232ba4be4c49921baae0c27194dd-4.m3u8
 #EXTINF:-1 tvg-name="巴黎奥运焰火启幕" tvg-logo="https://live.fanmingming.com/tv/巴黎奥运焰火启幕.png" group-title="奥运频道",巴黎奥运焰火启幕
