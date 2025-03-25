@@ -245,96 +245,53 @@ http://123.54.179.70/PLTV/88888888/224/3221227047/index.m3u8
 http://123.54.179.71/PLTV/88888888/224/3221227047/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="河南电信央视",CCTV5
 http://222.85.69.6/PLTV/88888888/224/3221227047/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.72/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.72/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.72/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.133/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.133/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.133/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.134/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.134/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.134/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.135/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.135/PLTV/88888888/224/3221227220/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.135/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.136/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.136/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.136/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.73/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.73/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.73/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.137/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.137/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.137/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.138/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.138/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.138/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.139/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.139/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.139/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.140/PLTV/88888888/224/3221227069/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.140/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.74/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.74/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.74/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.69/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.69/PLTV/88888888/224/3221227220/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.69/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.70/PLTV/88888888/224/3221227069/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.70/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.70/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.71/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://123.54.179.71/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://123.54.179.71/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://222.85.69.6/PLTV/88888888/224/3221227069/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
 http://222.85.69.6/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://222.85.69.6/PLTV/88888888/224/3221227236/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河南电信央视",CCTV5+
-http://222.85.69.6/TVOD/88888888/224/3221227069/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="河南电信央视",CCTV6
 http://123.54.179.72/PLTV/88888888/224/3221227046/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="河南电信央视",CCTV6
