@@ -1,11 +1,5 @@
 "lives": [
     {
-      "name": "小武哥(18+)",
-      "playerType": 2,
-      "url": "https://qu.ax/PEHy.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Taipei"
-    },
-    {
       "name": "私密線路(18+)",
       "playerType": 2,
       "url": "./live/178.txt",
