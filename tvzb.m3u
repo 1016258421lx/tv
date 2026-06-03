@@ -2832,3 +2832,422 @@ http://123.54.179.69/PLTV/88888888/224/3221227149/index.m3u8
 http://123.54.179.70/PLTV/88888888/224/3221227149/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="河南电信数字频道",魅力足球
 http://123.54.179.71/PLTV/88888888/224/3221227149/index.m3u8
+
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://rihou.cc:555/tv/中天新闻
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://r.jdshipin.com/yDoTN
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://r.jdshipin.com/NfC0f
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://115.44.140.170:18180/TV00000000000000000024@HHZT
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://cdn6.163189.xyz/163189/fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://cdn6.101.qzz.io/163189/fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://php.jdshipin.com:2096/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://feilong123.vip/409990236/hktv.php?id=2
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://hls-gateway.vpstv.net/streams/476960.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-5.ctv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://101.35.240.114:88/phenix.php?id=fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://t.freetv.fun/live/feng-huang-xiang-gang-1.php
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4861&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7045&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3523&tk=7877e7cc41c7
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-3.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5588&tk=2aca1ad9a849
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5454&tk=e503191f8e20
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://dns.yiandrive.com:15907/phenix/fhhk
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-11.ctv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://stream1.freetv.fun/feng-huang-xiang-gang-10.ctv
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 group-title="港澳台",凤凰香港
+https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="港澳台",凤凰香港
+http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰香港
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://r.jdshipin.com/cCCzW
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://mgev.188766.xyz/?migutoken=d2cb1d3b27ceb7f566c0b20cbf3dbca7&id=fhzw&pp=1
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://mgev.188766.xyz/?migutoken=488cc8d5142343a18afcd003da4d11bc&id=hk_fhzw&type=dy
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://115.44.140.170:18180/TV00000000000000000008@HHZT
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://php.jdshipin.com:2096/smt.php?id=phoenixtv_hd
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://feilong123.vip/409990236/hktv.php?id=3
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://iptv.4666888.xyz/iptv2A.php?id=27
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://218.206.193.218:8888/hls/66/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://hls-gateway.vpstv.net/streams/476959.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/4e695e885cc20b20b7e3ec874fe52ed75e27443778c8ff29e498c4c9d7cec4a0.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-10.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-11.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-12.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-18.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-5.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-15.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-12.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://101.35.240.114:88/phenix.php?id=fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.184:9092
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://t.freetv.fun/live/feng-huang-zhong-wen-1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-19.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-9.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://wouu.net:9977/udp/239.93.1.9:2192
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://wouu.net:9977/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7378&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8382&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6705&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8654&tk=e503191f8e20
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-2.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-17.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-6.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-16.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-15.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-3.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://k44991.kylintv.tv/live/pxna_iphone.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文
+https://stream1.freetv.fun/feng-huang-zhong-wen-7.ctv
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://cdn5.1678520.xyz/live/live2.1.php?id=fhzw
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://cdn5.1678520.xyz/live/?id=fhzw
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://mgev.188766.xyz/?migutoken=1f2a8c13256a5c1d8538242a512ad64f&id=fhzx&pp=1
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://mgev.188766.xyz/?migutoken=24cd07d564a889ac2b4b11883e0c3710&id=hk_fhzx&type=dy
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://115.44.140.170:18180/TV00000000000000000009@HHZT
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://cdn6.101.qzz.io/163189/fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://mytvsuper.webn.cc:2052/live/stream-f8063c3794481a17/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://hls-gateway.vpstv.net/streams/476958.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/5fb13a1ac8acfc0fbc7121568b65c78e0383919949c35c2a7f278a1ddd081e2b.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-8.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-8.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-2.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-4
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-24.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://101.35.240.114:88/phenix.php?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukruupu002-golive.flv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://t.freetv.fun/live/feng-huang-zi-xun.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://wouu.net:9977/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://wouu.net:9977/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://218.202.220.2:5000/nn_live.ts?id=FHZX
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-11.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-20.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一凤凰资讯
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7405&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5282&tk=2aca1ad9a849
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://cdn5.1678520.xyz/live/?id=fhzx
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-17.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-18.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-1.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-3.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9310&tk=e640d0a1bf70
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1581&tk=e503191f8e20
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-23.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-22.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-19.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-20.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-13.ctv
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://stream1.freetv.fun/feng-huang-zi-xun-25.ctv
+#EXTINF:-1 group-title="港澳台",凤凰卫视
+http://218.206.193.218:8888/hls/67/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰卫视
+http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰卫视
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
+#EXTINF:-1 group-title="港澳台",凤凰卫视
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
