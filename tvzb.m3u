@@ -2834,7 +2834,10 @@ http://123.54.179.70/PLTV/88888888/224/3221227149/index.m3u8
 http://123.54.179.71/PLTV/88888888/224/3221227149/index.m3u8
 
 #EXTINF:-1 group-title="港澳台",中天新闻
+https://tv123.cc.cd/live.php?ch=4b024a521075
+#EXTINF:-1 group-title="港澳台",中天新闻
 http://rihou.cc:555/tv/中天新闻
+
 #EXTINF:-1 group-title="港澳台",凤凰香港
 http://r.jdshipin.com/yDoTN
 #EXTINF:-1 group-title="港澳台",凤凰香港
